@@ -30,7 +30,7 @@
         "description": "Counter-Strike: Global Offensive is a multiplayer first-person shooter video game developed by Valve and Hidden Path Entertainment. Players join one of two teams, the Terrorists or the Counter-Terrorists, and compete to complete objectives or eliminate the other team.",
         "rating": 8.5,
         "genre": ["First-person shooter", "Tactical shooter"],
-        "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/CS-GO_Logo.png"
+        "image": "https://www.dictionary.com/e/wp-content/uploads/2018/07/CS-GO3.jpg"
       },
       {
         "id": 5,
@@ -38,7 +38,7 @@
         "description": "PlayerUnknown's Battlegrounds is an online multiplayer battle royale game developed and published by PUBG Corporation. Players parachute onto an island and scavenge for weapons and equipment to kill others while avoiding being killed themselves.",
         "rating": 7.6,
         "genre": ["Battle royale", "Third-person shooter"],
-        "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/PlayerUnknown%27s_Battlegrounds_Steam_Logo.jpg"
+        "image": "https://m.media-amazon.com/images/M/MV5BMTRkMjg2NDEtYzIxYi00MzZlLTllNmQtOTE4YWMzNjIwZDNkXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg"
       },
       {
         "id": 6,
@@ -46,7 +46,7 @@
         "description": "Fortnite is an online video game developed by Epic Games. It is a battle royale game where up to 100 players fight to be the last person standing while building structures to protect themselves.",
         "rating": 8.1,
         "genre": ["Battle royale", "Third-person shooter"],
-        "image": "https://upload.wikimedia.org/wikipedia/en/0/03/Fortnite_Box_Art.jpg"
+        "image": "https://static-cdn.jtvnw.net/ttv-boxart/33214-285x380.jpg"
       },
       {
         "id": 7,
@@ -62,7 +62,7 @@
         "description": "World of Warcraft is a massively multiplayer online role-playing game developed and published by Blizzard Entertainment. Players create their own characters and explore a virtual world filled with quests, dungeons, and other players.",
         "rating": 8.5,
         "genre": ["MMORPG"],
-        "image": "https://upload.wikimedia.org/wikipedia/en/9/91/WoW_Box_Art1.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/65/World_of_Warcraft.png"
       },
       {
         "id": 9,
@@ -70,7 +70,7 @@
         "description": "Civilization VI is a turn-based strategy game developed by Firaxis Games and published by 2K Games. Players control a civilization and guide it from ancient times to modern times, competing against other civilizations and achieving victory through various means.",
         "rating": 9.2,
         "genre": ["Turn-based strategy"],
-        "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Civilization_VI_cover_art.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3b/Civilization_VI_cover_art.jpg"
       },
       {
         "id": 10,
@@ -78,7 +78,7 @@
         "description": "Stardew Valley is a farming simulation game developed by ConcernedApe and published by Chucklefish. Players inherit a run-down farm and must restore it to its former glory by growing crops, raising animals, and forming relationships with the other residents of the nearby town.",
         "rating": 8.8,
         "genre": ["Simulation", "Farming"],
-        "image": "https://upload.wikimedia.org/wikipedia/en/3/3c/Stardew_Valley.png"
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png"
       }
 
     ],
